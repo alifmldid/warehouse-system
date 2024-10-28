@@ -4,4 +4,4 @@ Information System for warehouse of PT. Candi Berkah Teknologi. It have three ro
 
 ![Screenshot](https://raw.githubusercontent.com/alifmauludi/Warehouse-System/master/screenshots/Warehouse%20SS.PNG)
 
-Dokumentasi : https://drive.google.com/open?id=1vq7PLahLoWbjAZtgE6cRBez9RiOW0n7x
+Documentation: https://drive.google.com/open?id=1vq7PLahLoWbjAZtgE6cRBez9RiOW0n7x
